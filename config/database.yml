@@ -1,0 +1,7 @@
+development:
+  adapter: mysql2
+  database: sample_app_db
+  username: root
+  password: newpassword
+  host: localhost
+  socket: /tmp/mysql.sock
