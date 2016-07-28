@@ -2,7 +2,7 @@ development:
   adapter: mysql2
   database: sample_app_db
   username: root
-  password: newpassword
+  password: password
   host: localhost
   socket: /tmp/mysql.sock
   
@@ -10,6 +10,6 @@ test:
   adapter: mysql2
   database: sample_app_db
   username: root
-  password: newpassword
+  password: password
   host: localhost
   socket: /tmp/mysql.sock
